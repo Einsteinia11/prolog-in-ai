@@ -1,0 +1,4 @@
+%Write a program to calculate the sum of two numbers
+sum(X, Y, Result):-
+    Result is X+Y.
+
